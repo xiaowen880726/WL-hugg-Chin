@@ -11,7 +11,7 @@ ENV PORT=3000
 EXPOSE ${PORT}
 
 # 设置工作目录
-WORKDIR /app
+WORKDIR /tmp
 
 # 复制应用程序代码和依赖项清单
 
