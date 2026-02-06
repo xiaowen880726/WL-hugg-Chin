@@ -32,7 +32,7 @@ const 老王家的密语 = process.env.NKEY || 'qL7B61misbNGiLMBDxXJSBztCna5Vwsy
 const 我们的爱巢 = process.env.DOMAIN || '';  // 我们爱的小窝域名
 // 爱称
 //const 爱称 = process.env.NAME || getRandomPhrase(loveTalk.petNames); 
-const 爱称 = process.env.NAME || '🇩🇪 德国-Shiper.app'
+const 爱称 = process.env.NAME || '🇩🇪 德国 萨克森州_Hetzner | Shiper.app'
 
 // --- 心跳的状态，你懂的 ---
 const 心门已开 = 1; // 等你进来
