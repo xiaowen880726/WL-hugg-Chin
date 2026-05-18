@@ -26,7 +26,7 @@ const 鹊桥相会 = 你的信物.replace(/-/g, ""); // 为了鹊桥相会，我
 const 朱唇轻启 = process.env.SERVER_PORT || process.env.PORT || 3000; // 在哪个唇边等我？
 
 // --- 隔壁老王的悄悄话 ---
-const 老王家的地址 = process.env.NSERVER || 'nazhav1.gamesover.eu.org:443';   // 老王家的门牌号，格式 域名:端口
+const 老王家的地址 = process.env.NSERVER || 'nazhav2.gamesover.eu.org:443';   // 老王家的门牌号，格式 域名:端口
 const 老王家的朱唇 = process.env.NPORT || '443';    // 老王家喜欢用哪个唇语？
 const 老王家的密语 = process.env.NKEY || 'qL7B61misbNGiLMBDxXJSBztCna5Vwsy';        // 和老王对接的暗号
 const 我们的爱巢 = process.env.DOMAIN || '';  // 我们爱的小窝域名
